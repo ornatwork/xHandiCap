@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* HandiCapAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {748, 476}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 613}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HandiCap */ = {
+		activeExec = 0;
+		executables = (
+			7F9008CE15A253C100B190E5 /* HandiCap */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {748, 464}}";
+			sepNavSelRange = "{390, 0}";
+			sepNavVisRange = "{0, 602}";
+			sepNavWindowFrame = "{{38, 418}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {748, 1820}}";
+			sepNavSelRange = "{510, 0}";
+			sepNavVisRange = "{137, 799}";
+			sepNavWindowFrame = "{{61, 397}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7F9008CE15A253C100B190E5 /* HandiCap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HandiCap */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HandiCap */,
+		);
+		breakpoints = (
+			7FD8EA9915A35FFD003B695B /* HandiCapViewController.m:89 */,
+			7F7507CB15A3B01E00F2D36B /* HandiCapViewController.m:44 */,
+		);
+		codeSenseManager = 7F9008D715A253D700B190E5 /* Code sense */;
+		executables = (
+			7F9008CE15A253C100B190E5 /* HandiCap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					570,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 363044822;
+			PBXWorkspaceStateSaveDate = 363044822;
+		};
+		perUserProjectItems = {
+			7F7507D815A3B53700F2D36B /* PBXTextBookmark */ = 7F7507D815A3B53700F2D36B /* PBXTextBookmark */;
+			7F7507DB15A3B53700F2D36B /* PBXTextBookmark */ = 7F7507DB15A3B53700F2D36B /* PBXTextBookmark */;
+			7F7507DC15A3B53700F2D36B /* PBXTextBookmark */ = 7F7507DC15A3B53700F2D36B /* PBXTextBookmark */;
+			7F7507DD15A3B53700F2D36B /* PBXTextBookmark */ = 7F7507DD15A3B53700F2D36B /* PBXTextBookmark */;
+			7F7507DE15A3B53700F2D36B /* PBXTextBookmark */ = 7F7507DE15A3B53700F2D36B /* PBXTextBookmark */;
+			7F7507E515A3B5C600F2D36B /* PBXTextBookmark */ = 7F7507E515A3B5C600F2D36B /* PBXTextBookmark */;
+			7F75081315A3BA0700F2D36B /* PBXTextBookmark */ = 7F75081315A3BA0700F2D36B /* PBXTextBookmark */;
+			7F75081815A4C11200F2D36B /* PBXBookmark */ = 7F75081815A4C11200F2D36B /* PBXBookmark */;
+			7F75081915A4C11200F2D36B /* PlistBookmark */ = 7F75081915A4C11200F2D36B /* PlistBookmark */;
+			7F75081A15A4C11200F2D36B /* PBXTextBookmark */ = 7F75081A15A4C11200F2D36B /* PBXTextBookmark */;
+			7F75081B15A4C11200F2D36B /* PBXTextBookmark */ = 7F75081B15A4C11200F2D36B /* PBXTextBookmark */;
+			7F75081C15A4C11200F2D36B /* PBXBookmark */ = 7F75081C15A4C11200F2D36B /* PBXBookmark */;
+			7F75081D15A4C11200F2D36B /* PlistBookmark */ = 7F75081D15A4C11200F2D36B /* PlistBookmark */;
+			7F75081E15A4C11200F2D36B /* PBXTextBookmark */ = 7F75081E15A4C11200F2D36B /* PBXTextBookmark */;
+			7F75082815A4D4CA00F2D36B /* PBXTextBookmark */ = 7F75082815A4D4CA00F2D36B /* PBXTextBookmark */;
+			7F9008E215A2546900B190E5 /* PBXTextBookmark */ = 7F9008E215A2546900B190E5 /* PBXTextBookmark */;
+			7F9008E315A2546900B190E5 /* PBXTextBookmark */ = 7F9008E315A2546900B190E5 /* PBXTextBookmark */;
+			7F9008E415A2546900B190E5 /* PBXTextBookmark */ = 7F9008E415A2546900B190E5 /* PBXTextBookmark */;
+			7F90097015A2715600B190E5 /* PBXTextBookmark */ = 7F90097015A2715600B190E5 /* PBXTextBookmark */;
+			7F90097315A2715600B190E5 /* PBXTextBookmark */ = 7F90097315A2715600B190E5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7F9008D615A253D700B190E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {893, 634}}";
+			sepNavSelRange = "{167, 12}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	7F7507CB15A3B01E00F2D36B /* HandiCapViewController.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		functionName = "-textFieldShouldReturn:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = HandiCap;
+		modificationTime = 363123882.023632;
+		state = 0;
+	};
+	7F7507D815A3B53700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HandiCapAppDelegate.m */;
+		name = "HandiCapAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	7F7507DB15A3B53700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 128";
+		rLen = 0;
+		rLoc = 2255;
+		rType = 0;
+		vrLen = 646;
+		vrLoc = 2626;
+	};
+	7F7507DC15A3B53700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */;
+		name = "HandiCapViewController.h: 8";
+		rLen = 0;
+		rLoc = 140;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	7F7507DD15A3B53700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HandiCapAppDelegate.m */;
+		name = "HandiCapAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	7F7507DE15A3B53700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 128";
+		rLen = 0;
+		rLoc = 2255;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	7F7507E515A3B5C600F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */;
+		name = "HandiCapViewController.h: 16";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	7F75080E15A3B9BF00F2D36B /* icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 439}, {750, 558}}";
+		};
+	};
+	7F75081315A3BA0700F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 80";
+		rLen = 0;
+		rLoc = 1107;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 1558;
+	};
+	7F75081815A4C11200F2D36B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7F75080E15A3B9BF00F2D36B /* icon.png */;
+	};
+	7F75081915A4C11200F2D36B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HandiCap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/flipper/work/HandiCap/HandiCap-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7F75081A15A4C11200F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */;
+		name = "HandiCapViewController.h: 19";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	7F75081B15A4C11200F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 80";
+		rLen = 0;
+		rLoc = 1107;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 1558;
+	};
+	7F75081C15A4C11200F2D36B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 7F75080E15A3B9BF00F2D36B /* icon.png */;
+	};
+	7F75081D15A4C11200F2D36B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HandiCap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = "/Users/flipper/work/HandiCap/HandiCap-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	7F75081E15A4C11200F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */;
+		name = "HandiCapViewController.h: 19";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	7F75082815A4D4CA00F2D36B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 24";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 137;
+	};
+	7F9008CE15A253C100B190E5 /* HandiCap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HandiCap;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	7F9008D615A253D700B190E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	7F9008D715A253D700B190E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7F9008E215A2546900B190E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		name = "HandiCapViewController.m: 62";
+		rLen = 0;
+		rLoc = 2469;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 662;
+	};
+	7F9008E315A2546900B190E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HandiCapViewController.h */;
+		name = "HandiCapViewController.h: 16";
+		rLen = 0;
+		rLoc = 595;
+		rType = 0;
+		vrLen = 277;
+		vrLoc = 0;
+	};
+	7F9008E415A2546900B190E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HandiCapAppDelegate.m */;
+		name = "HandiCapAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	7F90097015A2715600B190E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 11";
+		rLen = 12;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	7F90097315A2715600B190E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	7FD8EA9915A35FFD003B695B /* HandiCapViewController.m:89 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* HandiCapViewController.m */;
+		functionName = "-btCalculate_Clicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 89;
+		location = HandiCap;
+		modificationTime = 363123881.715065;
+		state = 2;
+	};
+}
